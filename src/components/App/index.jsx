@@ -1,10 +1,16 @@
 import React, { Component } from "react";
+/* Components */
+import Calculator from "../Calculator";
 /* Styles */
-import "../../assets/styles/main.css";
+import "./style.css";
 
 class App extends Component {
   render() {
-    return <div className="App">App</div>;
+    return (
+      <div className="app-container">
+        <Calculator />
+      </div>
+    );
   }
 }
 
