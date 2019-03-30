@@ -1,6 +1,6 @@
 # React Calculator TDD App
 
-This is a React application builded using Test-driven development methodology as a first look at this.
+React application build using Test-driven development methodology as a first look at this.
 
 I used the guia of [testdriven.io](https://testdriven.io/blog/).
 
