@@ -5,13 +5,27 @@ app variables
 :root {
   /* background colors */
   --calculator-background-color: #696969;
+  --display-background-color: #1d1f1f;
 
   /* font */
   --main-font: "Orbitron", sans-serif;
 
+  /* font colors */
+  --display-text-color: #23e000;
+
+  /* font sizes */
+  --display-text-size: 4em;
+
+  /* font weights */
+  --display-text-weight: 400;
+
   /* calculator dimensions */
   --calculator-height: 72%;
   --calculator-width: 36%;
+
+  /* display dimensions */
+  --display-height: 24%;
+  --display-width: 92%;
 }
 
 /*

@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+/* Components */
+import Display from "./Display";
 /* Style */
 import "./style.css";
 
@@ -29,7 +31,13 @@ class Calculator extends Component {
   };
 
   render = () => {
-    return <div className="calculator-container" />;
+    const { displayValue } = this.state;
+
+    return (
+      <div className="calculator-container">
+        <Display displayValue={displayValue} />
+      </div>
+    );
   };
 }
 
