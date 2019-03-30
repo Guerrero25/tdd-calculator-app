@@ -1,3 +1,12 @@
+# React Calculator TDD App
+
+This is a React application builded using Test-driven development methodology as a first look at this.
+
+I used the guia of [testdriven.io](https://testdriven.io/blog/).
+
+* [Part 1](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/)
+* [Part 2](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-two/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
