@@ -1,8 +1,8 @@
 import React from "react";
 import { shallow } from "enzyme";
 /* Components */
-import Calculator from "../";
-import Display from "../Display";
+import Calculator from "../components/Calculator";
+import Display from "../components/Calculator/Display";
 
 describe("<Calculator />", () => {
   let wrapper;

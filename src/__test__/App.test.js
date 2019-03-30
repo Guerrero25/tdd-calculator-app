@@ -1,7 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
-import App from "../";
-import Calculator from "../../Calculator";
+import App from "../components/App";
+import Calculator from "../components/Calculator";
 
 describe("App", () => {
   let wrapper;
